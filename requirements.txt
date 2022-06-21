@@ -1,0 +1,4 @@
+sanic
+idom[sanic]
+uvicorn[standard]
+black
